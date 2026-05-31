@@ -127,7 +127,7 @@ The HED + Watershed method achieved the strongest overall performance.
 
 
 ## Project Structure
-
+``` 
 project/
 │
 ├── CO4_Project_Michèle_Pfister.ipynb
@@ -145,7 +145,7 @@ project/
 │   └── Metrics/
 │
 └── GeoJSON/
-
+``` 
 
 
 ## Installation
