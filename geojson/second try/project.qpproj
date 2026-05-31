@@ -1,0 +1,803 @@
+{
+  "version": "0.7.0",
+  "createTimestamp": 1778784215414,
+  "modifyTimestamp": 1778784215414,
+  "uri": "file:/Users/michelepfister/Documents/CO4/geojson/second%20try/project.qpproj",
+  "lastID": 19,
+  "images": [
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1955_N_4.png",
+        "args": [
+          "--series",
+          "0"
+        ]
+      },
+      "entryID": 1,
+      "randomizedName": "c668f2af-1ef0-4e41-aded-61807b82c522",
+      "imageName": "BRACS_1955_N_4.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1952_PB_3.png",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BRACS_1952_PB_3.png",
+          "width": 299,
+          "height": 299,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 299,
+              "height": 299
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 299,
+          "preferredTileHeight": 299
+        }
+      },
+      "entryID": 2,
+      "randomizedName": "10c022e7-f87e-4ac8-b358-3606c1c63f99",
+      "imageName": "BRACS_1952_PB_3.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1945_PB_16.png",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BRACS_1945_PB_16.png",
+          "width": 299,
+          "height": 299,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 299,
+              "height": 299
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 299,
+          "preferredTileHeight": 299
+        }
+      },
+      "entryID": 3,
+      "randomizedName": "6660b200-2a9c-401f-8be7-5cd7f75f837d",
+      "imageName": "BRACS_1945_PB_16.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1945_N_22.png",
+        "args": [
+          "--series",
+          "0"
+        ]
+      },
+      "entryID": 4,
+      "randomizedName": "b07cb018-baf6-4c4c-8661-524b1f32db4f",
+      "imageName": "BRACS_1945_N_22.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1945_N_21.png",
+        "args": [
+          "--series",
+          "0"
+        ]
+      },
+      "entryID": 5,
+      "randomizedName": "30d65251-1826-4618-bd45-08f0532dae85",
+      "imageName": "BRACS_1945_N_21.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1945_N_11.png",
+        "args": [
+          "--series",
+          "0"
+        ]
+      },
+      "entryID": 6,
+      "randomizedName": "96c76575-d105-41f6-a6ef-e36d07ca8789",
+      "imageName": "BRACS_1945_N_11.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1945_N_6.png",
+        "args": [
+          "--series",
+          "0"
+        ]
+      },
+      "entryID": 7,
+      "randomizedName": "193fba9e-75f5-4b1b-88b6-7693f322439f",
+      "imageName": "BRACS_1945_N_6.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1943_PB_22.png",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BRACS_1943_PB_22.png",
+          "width": 299,
+          "height": 299,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 299,
+              "height": 299
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 299,
+          "preferredTileHeight": 299
+        }
+      },
+      "entryID": 8,
+      "randomizedName": "510995a3-96d8-4e89-bafa-ba1cb9659808",
+      "imageName": "BRACS_1943_PB_22.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1942_PB_3.png",
+        "args": [
+          "--series",
+          "0"
+        ]
+      },
+      "entryID": 9,
+      "randomizedName": "57809989-b8da-441e-b71f-fb052dc49279",
+      "imageName": "BRACS_1942_PB_3.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1941_PB_12.png",
+        "args": [
+          "--series",
+          "0"
+        ]
+      },
+      "entryID": 10,
+      "randomizedName": "118012d4-e77c-4371-8945-507e62a42f99",
+      "imageName": "BRACS_1941_PB_12.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1937_PB_5.png",
+        "args": [
+          "--series",
+          "0"
+        ]
+      },
+      "entryID": 11,
+      "randomizedName": "c747c5b4-2bb3-4ad5-a1e6-ed5c816a6ce9",
+      "imageName": "BRACS_1937_PB_5.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1940_PB_2.png",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BRACS_1940_PB_2.png",
+          "width": 299,
+          "height": 299,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 299,
+              "height": 299
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 299,
+          "preferredTileHeight": 299
+        }
+      },
+      "entryID": 12,
+      "randomizedName": "f2892802-49b2-420f-a951-8f4bf2a4227e",
+      "imageName": "BRACS_1940_PB_2.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1937_N_8.png",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BRACS_1937_N_8.png",
+          "width": 299,
+          "height": 299,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 299,
+              "height": 299
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 299,
+          "preferredTileHeight": 299
+        }
+      },
+      "entryID": 13,
+      "randomizedName": "1f79f099-09f0-4dd1-b811-8d3038920277",
+      "imageName": "BRACS_1937_N_8.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1937_N_7.png",
+        "args": [
+          "--series",
+          "0"
+        ]
+      },
+      "entryID": 14,
+      "randomizedName": "76cf139a-a2e0-41ad-8d0c-9ffc723e8a65",
+      "imageName": "BRACS_1937_N_7.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/BRACS_1937_N_6.png",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BRACS_1937_N_6.png",
+          "width": 299,
+          "height": 299,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 299,
+              "height": 299
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 299,
+          "preferredTileHeight": 299
+        }
+      },
+      "entryID": 15,
+      "randomizedName": "05bcc9ae-3baf-429d-ac9d-5d99d5c9af5a",
+      "imageName": "BRACS_1937_N_6.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/additional/BRACS_305_N_5.png",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BRACS_305_N_5.png",
+          "width": 299,
+          "height": 299,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 299,
+              "height": 299
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 299,
+          "preferredTileHeight": 299
+        }
+      },
+      "entryID": 16,
+      "randomizedName": "61ec051c-4a54-431d-be6d-b728947e9a97",
+      "imageName": "BRACS_305_N_5.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/additional/BRACS_1937_N_15.png",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BRACS_1937_N_15.png",
+          "width": 299,
+          "height": 299,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 299,
+              "height": 299
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 299,
+          "preferredTileHeight": 299
+        }
+      },
+      "entryID": 17,
+      "randomizedName": "b5bd9718-2cf4-4b98-967b-fc8b8309f7df",
+      "imageName": "BRACS_1937_N_15.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/additional/BRACS_1937_N_11.png",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BRACS_1937_N_11.png",
+          "width": 299,
+          "height": 299,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 299,
+              "height": 299
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 299,
+          "preferredTileHeight": 299
+        }
+      },
+      "entryID": 18,
+      "randomizedName": "1ddcc0bb-e96d-4fe6-8a2a-c61eb99292c2",
+      "imageName": "BRACS_1937_N_11.png",
+      "metadata": {},
+      "tags": []
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/Users/michelepfister/Documents/CO4/Data/Data_Original/additional/BRACS_1286_N_40.png",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "BRACS_1286_N_40.png",
+          "width": 299,
+          "height": 299,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 299,
+              "height": 299
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 299,
+          "preferredTileHeight": 299
+        }
+      },
+      "entryID": 19,
+      "randomizedName": "200b950b-f72a-41b1-837c-880b756a0005",
+      "imageName": "BRACS_1286_N_40.png",
+      "metadata": {},
+      "tags": []
+    }
+  ]
+}
