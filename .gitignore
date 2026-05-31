@@ -1,12 +1,7 @@
-# macOS
 .DS_Store
-
-# Python / Jupyter
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-
-# model/cache and output folders
 cellpose_model_cache/
 automated_masks/
 cellpose_masks/
