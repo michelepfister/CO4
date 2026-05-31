@@ -11,7 +11,7 @@ Course: MSLS / CO4
 Semester: SS26
 University: ZHAW Zurich University of Applied Sciences
 
-⸻
+
 
 ## Project Goal
 
@@ -24,7 +24,7 @@ The aim of this project is to:
 
 Lumen segmentation is challenging because lumen boundaries are often unclear, partially collapsed, weakly stained, or visually similar to surrounding stromal tissue.
 
-⸻
+
 
 ## Dataset
 
@@ -44,7 +44,7 @@ The project focuses on:
 * Hollow or weakly stained tissue structures
 * Duct-like regions enclosed by epithelial tissue
 
-⸻
+
 
 ## Methods
 
@@ -62,7 +62,7 @@ The preprocessing pipeline includes:
 
 The preprocessing improves tissue contrast and supports downstream segmentation.
 
-⸻
+
 
 2. Manual Segmentation
 
@@ -74,7 +74,7 @@ Manual masks were generated using:
 
 The manual annotations serve as ground truth for evaluation.
 
-⸻
+
 
 3. Automated Segmentation Methods
 
@@ -105,7 +105,7 @@ Deep learning-assisted segmentation using:
 * Tissue mask filtering
 * Morphological postprocessing
 
-⸻
+
 
 ## Evaluation
 
@@ -124,7 +124,7 @@ HED Morphology	0.641	0.221
 
 The HED + Watershed method achieved the strongest overall performance.
 
-⸻
+
 
 ## Project Structure
 
@@ -146,7 +146,7 @@ project/
 │
 └── GeoJSON/
 
-⸻
+
 
 ## Installation
 
@@ -156,7 +156,7 @@ git clone <repository-url>
 cd <repository-folder>
 python -m pip install -r requirements.txt
 
-⸻
+
 
 ## Requirements
 
@@ -176,7 +176,7 @@ Install all dependencies with:
 
 python -m pip install -r requirements.txt
 
-⸻
+
 
 ## Running the Notebook
 
@@ -198,7 +198,7 @@ The notebook performs:
 6. Dice score evaluation
 7. Result comparison
 
-⸻
+
 
 Example Outputs
 
@@ -210,7 +210,7 @@ The project generates:
 * Dice score tables
 * Preprocessing visualizations
 
-⸻
+
 
 ## Discussion
 
@@ -223,7 +223,7 @@ The results demonstrate that:
 
 Although manual segmentation remains biologically informed, automated approaches provide faster and more reproducible analysis.
 
-⸻
+
 
 ## Future Improvements
 
@@ -236,7 +236,7 @@ Possible future extensions include:
 * More robust lumen boundary detection
 * Multi-class tissue segmentation
 
-⸻
+
 
 ## References
 
@@ -244,7 +244,7 @@ Possible future extensions include:
 * BRACS histopathology dataset
 * Cellpose segmentation framework
 
-⸻
+
 
 ## License
 
