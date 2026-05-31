@@ -1,6 +1,6 @@
 # CO4 BRACS Lumen Segmentation Challenge
 
-Overview
+## Overview
 
 This project investigates automatic lumen segmentation in H&E-stained breast histopathology images derived from the BRACS dataset. The work compares classical image-processing approaches and a deep learning-based segmentation workflow for detecting glandular lumen regions.
 
@@ -13,7 +13,7 @@ University: ZHAW Zurich University of Applied Sciences
 
 ⸻
 
-Project Goal
+## Project Goal
 
 The aim of this project is to:
 
@@ -26,7 +26,7 @@ Lumen segmentation is challenging because lumen boundaries are often unclear, pa
 
 ⸻
 
-Dataset
+## Dataset
 
 The dataset consists of:
 
@@ -46,7 +46,7 @@ The project focuses on:
 
 ⸻
 
-Methods
+## Methods
 
 1. Preprocessing
 
@@ -107,7 +107,7 @@ Deep learning-assisted segmentation using:
 
 ⸻
 
-Evaluation
+## Evaluation
 
 The segmentation methods were evaluated against manual masks using:
 
@@ -126,7 +126,7 @@ The HED + Watershed method achieved the strongest overall performance.
 
 ⸻
 
-Project Structure
+## Project Structure
 
 project/
 │
@@ -148,7 +148,7 @@ project/
 
 ⸻
 
-Installation
+## Installation
 
 Clone the repository and install the dependencies.
 
@@ -158,7 +158,7 @@ python -m pip install -r requirements.txt
 
 ⸻
 
-Requirements
+## Requirements
 
 Main Python packages used in this project:
 
@@ -178,7 +178,7 @@ python -m pip install -r requirements.txt
 
 ⸻
 
-Running the Notebook
+## Running the Notebook
 
 Open the notebook in Jupyter:
 
@@ -212,7 +212,7 @@ The project generates:
 
 ⸻
 
-Discussion
+## Discussion
 
 The results demonstrate that:
 
@@ -225,7 +225,7 @@ Although manual segmentation remains biologically informed, automated approaches
 
 ⸻
 
-Future Improvements
+## Future Improvements
 
 Possible future extensions include:
 
@@ -238,7 +238,7 @@ Possible future extensions include:
 
 ⸻
 
-References
+## References
 
 * Bankhead P, et al. (2017). QuPath: Open source software for digital pathology image analysis.
 * BRACS histopathology dataset
@@ -246,6 +246,6 @@ References
 
 ⸻
 
-License
+## License
 
 This project was created for academic and educational purposes.
